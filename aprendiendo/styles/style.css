@@ -1,0 +1,77 @@
+html {
+    background-image: url(https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2021/03/font.jpg);
+}
+.titular {
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    background-color: rgb(250, 252, 126);
+}
+.contenedor {
+    width: 1000px;
+    height: 1300px;
+    border: black 5px dashed;
+    margin: 0px auto;
+}
+.caja1 {
+    background-color: rgb(226, 206, 245);
+    height: 230px;
+    padding: 10px 10px 10px 10px;
+}
+.caja2 {
+    text-align:justify;
+    background-color: rgb(159, 219, 167);
+    width: 255px;
+    height: 600px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+.caja3 {
+    text-align:justify;
+    background-color: rgb(216, 117, 110);
+    width: 705px;
+    height: 600px;
+    float: right;
+    padding: 10px 10px 10px 10px;
+}
+.divisor {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    padding: 5px 5px 5px 5px;
+
+}
+.caja4 {
+    background-color: rgb(25, 197, 209);
+    width: 313px;
+    height: 300px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+.caja5 {
+    background-color: rgb(54, 21, 241);
+    width: 314px;
+    height: 300px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+.caja6 {
+    background-color: rgb(146, 49, 49);
+    width: 313px;
+    height: 300px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+.caja7 {
+    text-align:justify;
+    background-color: rgb(159, 219, 167);
+    width: 980px;
+    height: 300px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
